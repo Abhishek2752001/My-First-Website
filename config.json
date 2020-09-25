@@ -10,14 +10,14 @@
     "blog_name": "Robotics Ak",
     "blog_side": "Video Catalog ",
     "tag_line": "This is all about learning videos",
-    "gmail-user":"kadamabhi049@gmail.com",
-    "gmail-password":"8806973642",
+    "gmail-user":"your gmail-id-@gmail.com",
+    "gmail-password":"your_password",
     "about_text": " My name is Abhishek Kadam and I want to thank you for visiting my About page. Since 2020, I have successfully created and launched my first video website . I can teach you step-by-step how to do exactly the same thing. But first, I am sure you would like to hear my story,I will make it brief.",
     "contact_text": "You can send me i will definetly response you",
     "no_of_videos":6,
     "login_image": "login.svg",
-    "admin_user":"abhishek",
-    "admin_password": "abhi",
+    "admin_user":"",
+    "admin_password": "",
     "upload_location":"D:\\"
 
   }
